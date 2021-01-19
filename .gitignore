@@ -1,0 +1,17 @@
+# Ignores
+.DS_Store
+/node_modules
+node_modules
+
+#IDES
+**/.idea/**
+.idea
+/.idea
+
+npm-debug.log
+package-lock.json
+ngrok.exe
+*.exe
+*.zip
+Materiales
+Materiales/*

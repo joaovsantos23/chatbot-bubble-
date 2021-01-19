@@ -1,0 +1,28 @@
+{
+  "server": {
+    "url": "SERVER_URL",
+    "port": "PORT",
+    "context":"CONTEXT_NAME",
+    "origins":"ORIGINS_ALLOWED",
+    "originsReadOnly":"ORIGINS_READ_ONLY",
+    "corsEnabled": "CORS_ENABLED",
+    "tz": "TZ",
+    "showLogInterceptor": "SHOW_LOG_INTERCEPTOR"
+  },
+  "params": {
+    "fbApiVersion": "FB_API_VERSION",
+    "verifyToken": "VERIFY_TOKEN",
+    "appSecret": "APP_SECRET",
+    "accessToken": "ACCESS_TOKEN",
+    "subscribedFields": "FB_SUBSCRIBED_FIELDS",
+    "userFields": "USER_FIELDS",
+    "secrets": "SECRETS",
+    "requireProof": "REQUIRE_PROOF"
+  },
+  "services": {
+    "fbApiUrl": "FB_API_URL"
+  },
+  "swagger":{
+    "enabled":"SWAGGER_ENABLED"
+  }
+}
