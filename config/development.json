@@ -13,7 +13,7 @@
     "fbApiVersion": "v8.0",
     "verifyToken": "my_awesome_bot_verify_token",
     "appSecret": "5797c84926076b7acd2f4157897bb9fd",
-    "accessToken": "EAAF4ZCEoRH2IBAJAQC4ZAAEPFFh8axeZAbdfXGcsyOhdcWZASYhkZBuv5gz6g2dkidKIKVkPJYUf5AzdZBbAiZBB0AAsbZBjvXmfakCNt2ZCCXAzoPxfUWZBZA7iLYo2IckZClDKsZCVUCCetNrWZCcIDT2z2ZBcDUGYJBfqZASTWGgw6IomHAZDZD",
+    "accessToken": "<acess-token>",
     "subscribedFields": "messages,messaging_postbacks",
     "userFields": "id,name,first_name,last_name,email",
     "secrets": "",
